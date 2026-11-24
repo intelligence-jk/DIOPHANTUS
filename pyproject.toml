@@ -1,0 +1,10 @@
+[project]
+name = "step-checker"
+version = "0.1.0"
+description = "Check that each line of a worked algebra solution is equivalent to the line before it"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
