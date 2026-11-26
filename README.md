@@ -1,4 +1,6 @@
-# step-checker
+# DIOPHANTUS: named after Diophantus, the father of algebra: every step checked
+
+Formerly `step-checker`.
 
 Check that every line of a worked algebra solution follows from the line before it.
 
